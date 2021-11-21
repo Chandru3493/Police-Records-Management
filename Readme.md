@@ -17,8 +17,8 @@
 
 ## ScreenShot
 
-<img src="ScreenShots\Capture1.PNG" width="500" />
-<img src="ScreenShots\Capture2.PNG" width="500" />
+<img src="ScreenShots\Capture1.PNG" width="700" />
+<img src="ScreenShots\Capture2.PNG" width="700" />
 
 ## **Authors**
 
