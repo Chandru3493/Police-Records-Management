@@ -1,6 +1,6 @@
 # **_POLICE RECORD MANAGEMENT_**
 
-#### _Police Record Management is an application which can be used to store information about police officers. This application is used to store the records such as id, name, cop rank and station code. The data used were stored at database. For security purpose, we kept a login authentication in order to enter this application . Using this application one can add, update and delete details which are stored. There is also a search option where you can search data in any field (id, name, rank, station code). Overall, this will be a great application for police department to monitor the details of police officers._
+ _Police Record Management is an application which can be used to store information about police officers. This application is used to store the records such as id, name, cop rank and station code. The data used were stored at database. For security purpose, we kept a login authentication in order to enter this application . Using this application one can add, update and delete details which are stored. There is also a search option where you can search data in any field (id, name, rank, station code). Overall, this will be a great application for police department to monitor the details of police officers._
 
 ### **_Tools to be used :_**
 
