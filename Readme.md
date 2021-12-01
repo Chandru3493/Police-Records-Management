@@ -15,7 +15,7 @@
 3. _Data stored in database are shown in the form of table in GUI._
 4. _Data can be accessed and modified using GUI._
 
-## ScreenShot
+### **_Screenshot :_**
 
 <img src="ScreenShots\Capture1.PNG" width="700" />
 <img src="ScreenShots\Capture2.PNG" width="700" />
